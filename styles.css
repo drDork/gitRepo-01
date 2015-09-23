@@ -1,3 +1,5 @@
 li {
+	decoration: none;
+	color: green;
 	display: flex;
 }
