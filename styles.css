@@ -3,3 +3,7 @@ li {
 	color: green;
 	display: flex;
 }
+
+* {
+	background: green;
+}
